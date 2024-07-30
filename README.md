@@ -2,7 +2,7 @@
 ## 🔭 I’m currently working on open source contributions for gssoc'24
 ## 🌱 I’m currently learning python for data science
 
-## GSSOC(24) Badges 🪶
+## GSSOC(24) Badges (level 5: champion)
 <div style='display:flex; align-items:center; gap: 10px;' align='left'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />

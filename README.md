@@ -1,6 +1,14 @@
 ## Hi there 👋
-## 🔭 I’m currently working on open source contributions for gssoc'24
-## 🌱 I’m currently learning python for data science
+
+I'm currently learning **Node.js** and **Flutter** to build full-stack applications and mobile apps. I’m also the **Technical Lead** for the **GDG Thiruvananthapuram College Chapter (LBSITW)**, where I organize events and contribute to the tech community.
+
+- 🌱 **Learning**: Node.js, Flutter
+- 💼 **Role**: Technical Lead, GDG Thiruvananthapuram
+- 💻 **Interests**: Full-stack development, mobile app development, tech community leadership
+
+---
+
+This version includes the requested emojis and clean formatting suitable for a GitHub profile.
 
 ## GSSOC(24) Badges (level 5: champion)
 <div style='display:flex; align-items:center; gap: 10px;' align='left'>

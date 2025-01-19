@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently learning **Node.js** and **Flutter** to build full-stack applications and mobile apps. I’m also the **Technical Lead** for the **GDG Thiruvananthapuram College Chapter (LBSITW)**, where I organize events and contribute to the tech community.
+I'm currently learning **Node.js** and **Flutter** to build full-stack applications and mobile apps. I’m also the **Technical Lead** for **Google Developer Clubs**(On Campus) - College Chapter (LBSITW)**, where I organize events and contribute to the tech community.
 
 - 🌱 **Learning**: Node.js, Flutter
 - 💼 **Role**: Technical Lead, GDG Thiruvananthapuram

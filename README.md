@@ -4,8 +4,6 @@ I'm currently learning **Node.js** and **Flutter** to build full-stack applicati
 I also happen to be the **Technical Lead** for **Google Developer Clubs**(On Campus) for my college chapter, where I organize events and contribute to the tech community.
 
 - 🌱 **Learning**: Node.js, Flutter
-- 💼 **Role**: Technical Lead, GDG Thiruvananthapuram
-- 💻 **Interests**: Full-stack development, mobile app development, tech community leadership
 
 ---
   

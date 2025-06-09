@@ -3,7 +3,7 @@
 I'm currently learning **Node.js** and **Flutter** to build full-stack applications and mobile apps. 
 I also happen to be the **Technical Lead** for **Google Developer Clubs**(On Campus) for my college chapter, where I organize events and contribute to the tech community.
 
-working on something new @ www.kanakbooks.co.in !
+working on something new @ www.kanakbooks.com !
 
 - 🌱 **Learning**: Node.js, Flutter
 

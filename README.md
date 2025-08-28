@@ -5,10 +5,10 @@ I also happen to be the **Technical Lead** for **Google Developer Clubs**(On Cam
 
 working on something new @ www.kanakbooks.com !
 
-- Programming Languages Java, C++, C, JavaScript, Dart, Python
-- Frameworks & Libraries Flutter, Node.js, Riverpod
-- APIs & Development REST, GraphQL, API Integration, Agile Development
-- Databases SQLite, MySQL
+- Programming Languages: Java, C++, C, JavaScript, Dart, Python
+- Frameworks & Libraries: Flutter, Node.js, Riverpod
+- APIs & Development: REST, GraphQL, API Integration, Agile Development
+- Databases: SQLite, MySQL
 
 ---
   

@@ -7,7 +7,7 @@ working on something new @ www.kanakbooks.com !
 
 - Programming Languages: Java, C++, C, JavaScript, Dart, Python
 - Frameworks & Libraries: Flutter, NodeJS, Riverpod
-- APIs & Development: REST, GraphQL, API Integration, Agile Development
+- APIs & Development: REST, GraphQL
 - Databases: SQLite, MySQL
 
 ---

@@ -16,5 +16,6 @@ working on something new @ www.kanakbooks.com !
  </a>
 </div>
 </details>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e5e6d02e-92b1-4f38-9b2d-866982612462" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 

@@ -12,8 +12,9 @@ working on something new @ www.kanakbooks.com !
 
 ---
 <a href="https://www.credly.com/badges/e5e6d02e-92b1-4f38-9b2d-866982612462">
-  <img src=["https://images.credly.com/size/220x220/images/[BADGE-ID]](https://images.credly.com/size/220x220/images/927c7d2e-4185-4f8d-ae50-b6d5d171eb26/blob).png" alt="Credly Badge" width="150"/>
+  <img src="https://images.credly.com/size/220x220/images/927c7d2e-4185-4f8d-ae50-b6d5d171eb26/blob.png" alt="Credly Badge" width="150"/>
 </a>
+<a>
    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
  </a>
 </div>

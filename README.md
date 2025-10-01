@@ -11,7 +11,7 @@ working on something new @ www.kanakbooks.com !
 - Dbms: SQLite, MySQL
 
 ---
-<a href="https://www.credly.com/badges/e5e6d02e-92b1-4f38-9b2d-866982612462/public_url">
+<a href="https://www.credly.com/earner/earned/share/e5e6d02e-92b1-4f38-9b2d-866982612462">
   <img src="https://images.credly.com/size/220x220/images/927c7d2e-4185-4f8d-ae50-b6d5d171eb26/image.png" alt="Google Cloud Skills Boost Badge" width="150"/>
 </a>
 <a>

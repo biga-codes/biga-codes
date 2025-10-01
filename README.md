@@ -11,7 +11,7 @@ working on something new @ www.kanakbooks.com !
 - Dbms: SQLite, MySQL
 
 ---
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e5e6d02e-92b1-4f38-9b2d-866982612462" data-share-badge-host="https://www.credly.com"></div>
+ [View My Credly Badge](https://www.credly.com/badges/e5e6d02e-92b1-4f38-9b2d-866982612462)
    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
  </a>
 </div>

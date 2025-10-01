@@ -8,6 +8,7 @@ working on something new @ www.kanakbooks.com !
 - APIs & Development: REST, GraphQL, Docker
 - DBMS: SQLite, MySQL
 
+###Badges Earned:
 <div>
 <a href="https://www.credly.com/earner/earned/share/e5e6d02e-92b1-4f38-9b2d-866982612462">
 <img width="100px" height="100px" alt="Google Cloud Badge" src="https://github.com/user-attachments/assets/d682e140-6cc7-401c-ada2-5cf5e058f63a" />

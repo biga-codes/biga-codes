@@ -5,8 +5,8 @@ working on something new @ www.lfenergy.org/projects/hyphae !
 
 - Programming Languages: Java, C++, C, Python, JavaScript, Dart
 - Frameworks & Libraries: Flutter, NodeJS, Riverpod, SpringBoot
-- APIs & Development: REST, GraphQL, Docker, Kubernetes
-- DBMS: SQLite, MySQL
+- APIs & Development: REST, GraphQL, Docker, Kubernetes, Maven
+- DBMS: SQLite, MySQL, MongoDB
 
 ### Badges Earned:
 <div>

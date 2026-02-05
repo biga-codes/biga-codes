@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm currently learning **Springboot** and **Apache-Maven** to build full-stack applications. 
-I also happen to be the **Technical Lead** for **Google Developer Clubs** (On Campus) for my college chapter, where I organize events and contribute to the tech community.
+I also happened to be the **Technical Lead** for **Google Developer Clubs** (On Campus) for my college chapter in 2025, where I organized events and contributed to the tech community.
 working on something new @ www.lfenergy.org/projects/hyphae !
 
 - Programming Languages: Java, C++, C, Python, JavaScript, Dart
